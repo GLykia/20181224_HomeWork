@@ -10,6 +10,7 @@ namespace Asli_Donmez
     {
         static void Main(string[] args)
         {
+            
             Baslangic:
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write("Kaç öğrenci istiyorsunuz ? ");
